@@ -1,4 +1,4 @@
-## API Testing using Jest
+# API Testing using Jest
 
 ### Testing async API calls using mocking features w/ Jest
 
